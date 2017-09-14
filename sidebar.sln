@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sidebar", "sidebar\sidebar.csproj", "{EE369206-1D00-4904-B6A8-D9316BB04455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE369206-1D00-4904-B6A8-D9316BB04455}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EE369206-1D00-4904-B6A8-D9316BB04455}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EE369206-1D00-4904-B6A8-D9316BB04455}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EE369206-1D00-4904-B6A8-D9316BB04455}.Release|iPhone.Build.0 = Release|iPhone
+		{EE369206-1D00-4904-B6A8-D9316BB04455}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EE369206-1D00-4904-B6A8-D9316BB04455}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{EE369206-1D00-4904-B6A8-D9316BB04455}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EE369206-1D00-4904-B6A8-D9316BB04455}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
